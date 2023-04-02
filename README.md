@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aryan Narayan</h1>
+<h1 align="center"> Helloo, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Aryan Narayan!</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <!--
 <img align = "right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
