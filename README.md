@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-788&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-788" /> </p>
 
 <!-- 🔭 I’m currently working on [Car Rental Portal](https://github.com/Aryan-788/Car-Rental-Portal)  -->
-- 🔭 I’m currently working on [MERN Book Store]
+- 🔭 I’m currently working on MERN Book Store.
 
 - 🌱 I’m currently learning **Web Development, Cloud Computing, DSA**
 
