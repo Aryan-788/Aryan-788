@@ -19,9 +19,8 @@
 
 - 📫 How to reach me **aryanshrivastava788@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KbyZ_wWYLVw59EkFc4R7IFgaf-YV8zYb/view?usp=sharing](https://drive.google.com/file/d/1KbyZ_wWYLVw59EkFc4R7IFgaf-YV8zYb/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DkSfjEWkidnwdX0QPMljaopQupYcDZ2e/view?usp=sharing)
 
-- ⚡ Fun fact **Richard Hendricks, Erlich Bachman, Binod, Dinesh, Elon Musk, Big Head**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
